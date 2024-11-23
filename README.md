@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./med-leaf.jpg" alt="DBMS Overview" width="600px"/>
+</p>
+
 # Med-Leaf 🌿
 
 **Med-Leaf** is an online ordering system for medicinal plants, offering a diverse selection of natural remedies. Each plant in our collection is cultivated with nature's finest ingredients and ancient wisdom to promote holistic well-being. Med-Leaf is your trusted source for natural wellness, helping you discover the benefits of medicinal plants across various health categories.
