@@ -40,8 +40,8 @@ Medicinal plants play a **vital role in our daily lives**, serving as a natural 
 
 ##  Key Features
 
-- ** Home Page:** Engaging introduction with navigation to various plant categories.  
-- ** Category Pages:** Specialized collections for different health benefits, including:
+- **Home Page:** Engaging introduction with navigation to various plant categories.  
+- **Category Pages:** Specialized collections for different health benefits, including:
   - Digestive Aid  
   - Immune Boosters  
   - Respiratory Health  
