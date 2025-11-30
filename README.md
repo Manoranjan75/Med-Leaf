@@ -55,12 +55,14 @@ The homepage acts as the user’s first touchpoint, offering a clean layout that
 
 ##  2. Category-Based Search — Explore Plants by Wellness Goals
 
+<p align="center">
+  <img src="./Readme-Img/Dynamic-Search-bar.png" alt="Dynamic-Search-bar" width="600px"/>
+</p>
+
 Med-Leaf organizes all plants into well-defined **health categories**, enabling users to browse products based on specific physical or mental wellness outcomes.  
 This structure helps users quickly find relevant plants without needing botanical knowledge.
 
-<p align="center">
-  <img src="./screenshots/categories.png" alt="Med-Leaf Categories Preview" width="800px"/>
-</p>
+
 
 **Why it matters:**
 - Simplifies discovery for new users  
@@ -75,12 +77,14 @@ Digestive Aid, Immune Boosters, Respiratory Health, Skin Care, Stress Relief, Pa
 
 ##  3. Persistent Shopping Cart — Seamless Shopping Continuity
 
+<p align="center">
+  <img src="./Readme-Img/Shopping-cart.png" alt="Shopping-cart" width="400px"/>
+</p>
+
 The shopping cart is designed to maintain user selections throughout the browsing experience and even after refreshing or revisiting the page.  
 This creates a frictionless and uninterrupted shopping flow.
 
-<p align="center">
-  <img src="./screenshots/shopping-cart.png" alt="Med-Leaf Cart Interface" width="600px"/>
-</p>
+
 
 **Feature strengths:**
 - Items remain saved using browser persistence  
@@ -92,12 +96,15 @@ This creates a frictionless and uninterrupted shopping flow.
 
 ##  4. Medium Blog Integration — Learn as You Explore
 
+<p align="center">
+  <img src="./Readme-Img/Blog-2.png" alt="Medium Blog Preview 2" width="400px"/>
+</p>
+
+
 Med-Leaf integrates educational content from Medium blogs to help users understand plant properties, health benefits, usage methods, and scientific backing.  
 This creates a **knowledge-driven shopping experience**, helping users make informed purchasing decisions.
 
-<p align="center">
-  <img src="./screenshots/blog-preview.png" alt="Medium Blog Integration" width="650px"/>
-</p>
+
 
 **Why this is impactful:**
 - Builds credibility and user trust  
@@ -109,14 +116,16 @@ This creates a **knowledge-driven shopping experience**, helping users make info
 
 ##  5. Mobile Responsive Design — Optimized for Every Device
 
+<p align="center">
+  <img src="./Readme-Img/Mobile-prev-1.jpg" alt="Mobile-prev-1" height="330px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="./Readme-Img/Mobile-prev-2.jpg" alt="Mobile-prev-2" height="330px"    />
+</p>
+
+
 A fully responsive layout ensures Med-Leaf works seamlessly on:
 - Smartphones  
 - Tablets  
 - Desktops  
-
-<p align="center">
-  <img src="./screenshots/mobile-view.png" alt="Mobile View" width="300px"/>
-</p>
 
 **Responsive Design Benefits:**
 - Mobile-first UI ensures usability on small screens  
