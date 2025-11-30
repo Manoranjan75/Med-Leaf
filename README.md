@@ -59,7 +59,7 @@ The homepage acts as the user’s first touchpoint, offering a clean layout that
 <p align="center">
   <img src="./Readme-Img/Dynamic-Search-bar.png" alt="Dynamic-Search-bar" width="600px"/>
 </p>
-<p align="center"><strong> Categoryies </strong></p>
+<p align="center"><strong> Categories </strong></p>
 
 Med-Leaf organizes all plants into well-defined **health categories**, enabling users to browse products based on specific physical or mental wellness outcomes.  
 This structure helps users quickly find relevant plants without needing botanical knowledge.
