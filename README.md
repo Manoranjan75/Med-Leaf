@@ -136,13 +136,14 @@ A fully responsive layout ensures Med-Leaf works seamlessly on:
 ---
 
 ##  6. About Us — Story, Purpose & Platform Identity
+<p align="center">
+  <img src="./Readme-Img/About-us-1.png" alt="About-us-1" width="400px"/> 
+</p>
+
 
 The **About Us** page communicates the inspiration behind Med-Leaf, highlighting the platform’s mission of reconnecting users with nature through accessible digital tools.  
 It explains the reasoning behind promoting herbal wellness and the vision that shaped the platform.
 
-<p align="center">
-  <img src="./screenshots/about-page.png" alt="About Us Section Preview" width="750px"/>
-</p>
 
 **Purpose of this section:**
 - Builds transparency and authenticity  
