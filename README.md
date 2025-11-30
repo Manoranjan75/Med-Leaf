@@ -28,33 +28,121 @@ Medicinal plants play a **vital role in our daily lives**, serving as a natural 
 
 ---
 
-##  Project Highlights
 
-- **Architected a Responsive Front-End** using **React.js**, implementing a modular structure with reusable components for better maintainability and scalability.  
-- **Smart Category-Based** Exploration lets users find the right medicinal plants faster by navigating through health-focused sections.  
-- **Persistent Shopping Cart** ensures users can continue their shopping journey without losing selections between sessions.  
-- **Educational Medium Blog Integration** — linked directly from the platform — offers articles on medicinal plant benefits, creating a knowledge hub that **builds user trust and engagement**.  
-- Fully **responsive UI** ensures seamless performance on desktops, tablets, and smartphones.  
-
----
 
 ##  Key Features
 
-- **Home Page:** Engaging introduction with navigation to various plant categories.  
-- **Category Pages:** Specialized collections for different health benefits, including:
-  - Digestive Aid  
-  - Immune Boosters  
-  - Respiratory Health  
-  - Skin Care  
-  - Stress Relief  
-  - Pain Relief  
-  - Heart Health  
-  - Mood Fresh  
-- **🔍 Category-Based:** Quickly locate desired plants using search filters.  
-- **🛒 Persistent Shopping Cart:** Retains user selections even after page refreshes.  
-- **📖 Linked Medium Blog:** Provides educational content about plant usage and benefits.  
+
+Med-Leaf delivers a clean, intuitive, and functional shopping experience designed around both **usability** and **wellness education**.  
+Each feature has been carefully crafted to improve discoverability, clarity, and and user trust.
+
+
+
+##  1. Homepage — Clean & Welcoming Interface
+
+The homepage acts as the user’s first touchpoint, offering a clean layout that clearly communicates the platform’s purpose. It highlights medicinal plant categories and provides direct access to learning content, ensuring users are introduced to both the shopping experience and educational aspects of Med-Leaf.
+
+<p align="center">
+  <img src="./screenshots/home-page.png" alt="Med-Leaf Homepage" width="750px"/>
+</p>
+
+**Key aspects:**
+- Minimal, wellness-themed UI  
+- Prominent navigation for quick exploration  
+- Smooth transitions into category-based browsing  
 
 ---
+
+##  2. Category-Based Search — Explore Plants by Wellness Goals
+
+Med-Leaf organizes all plants into well-defined **health categories**, enabling users to browse products based on specific physical or mental wellness outcomes.  
+This structure helps users quickly find relevant plants without needing botanical knowledge.
+
+<p align="center">
+  <img src="./screenshots/categories.png" alt="Med-Leaf Categories Preview" width="800px"/>
+</p>
+
+**Why it matters:**
+- Simplifies discovery for new users  
+- Clear iconography improves scanning and navigation  
+- Helps users match plants to their symptoms or goals  
+- Reduces cognitive load with structured browsing paths  
+
+**Categories include:**  
+Digestive Aid, Immune Boosters, Respiratory Health, Skin Care, Stress Relief, Pain Relief, Heart Health, and Mood Fresh.
+
+---
+
+##  3. Persistent Shopping Cart — Seamless Shopping Continuity
+
+The shopping cart is designed to maintain user selections throughout the browsing experience and even after refreshing or revisiting the page.  
+This creates a frictionless and uninterrupted shopping flow.
+
+<p align="center">
+  <img src="./screenshots/shopping-cart.png" alt="Med-Leaf Cart Interface" width="600px"/>
+</p>
+
+**Feature strengths:**
+- Items remain saved using browser persistence  
+- Users can review, update, or remove items easily  
+- Reduces user frustration and increases completion likelihood  
+- Follows standard e-commerce usability patterns  
+
+---
+
+##  4. Medium Blog Integration — Learn as You Explore
+
+Med-Leaf integrates educational content from Medium blogs to help users understand plant properties, health benefits, usage methods, and scientific backing.  
+This creates a **knowledge-driven shopping experience**, helping users make informed purchasing decisions.
+
+<p align="center">
+  <img src="./screenshots/blog-preview.png" alt="Medium Blog Integration" width="650px"/>
+</p>
+
+**Why this is impactful:**
+- Builds credibility and user trust  
+- Encourages learning-driven engagement  
+- Complements the product experience with high-quality content  
+- Strengthens the platform’s wellness-focused identity  
+
+---
+
+##  5. Mobile Responsive Design — Optimized for Every Device
+
+A fully responsive layout ensures Med-Leaf works seamlessly on:
+- Smartphones  
+- Tablets  
+- Desktops  
+
+<p align="center">
+  <img src="./screenshots/mobile-view.png" alt="Mobile View" width="300px"/>
+</p>
+
+**Responsive Design Benefits:**
+- Mobile-first UI ensures usability on small screens  
+- Flexible grid systems and adaptive layouts  
+- Reliable navigation across touch-based devices  
+- Improved accessibility and user retention  
+
+---
+
+##  6. About Us — Story, Purpose & Platform Identity
+
+The **About Us** page communicates the inspiration behind Med-Leaf, highlighting the platform’s mission of reconnecting users with nature through accessible digital tools.  
+It explains the reasoning behind promoting herbal wellness and the vision that shaped the platform.
+
+<p align="center">
+  <img src="./screenshots/about-page.png" alt="About Us Section Preview" width="750px"/>
+</p>
+
+**Purpose of this section:**
+- Builds transparency and authenticity  
+- Explains the mission behind promoting herbal wellness  
+- Helps users understand the vision and origin of Med-Leaf  
+- Creates a personal connection with the platform  
+
+---
+ 
 
 ##  Tech Stack
 
