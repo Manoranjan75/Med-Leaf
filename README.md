@@ -42,7 +42,7 @@ Each feature has been carefully crafted to improve discoverability, clarity, and
 <p align="center">
   <img src="./Readme-Img/Home-page.png" alt="Home-page" width="400px"/>
 </p>
-
+<p align="center"><strong>Med-Leaf Homepage</strong></p>
 
 The homepage acts as the user’s first touchpoint, offering a clean layout that clearly communicates the platform’s purpose. It highlights medicinal plant categories and provides direct access to learning content, ensuring users are introduced to both the shopping experience and educational aspects of Med-Leaf.
 
@@ -59,6 +59,7 @@ The homepage acts as the user’s first touchpoint, offering a clean layout that
 <p align="center">
   <img src="./Readme-Img/Dynamic-Search-bar.png" alt="Dynamic-Search-bar" width="600px"/>
 </p>
+<p align="center"><strong> Categoryies </strong></p>
 
 Med-Leaf organizes all plants into well-defined **health categories**, enabling users to browse products based on specific physical or mental wellness outcomes.  
 This structure helps users quickly find relevant plants without needing botanical knowledge.
@@ -77,12 +78,14 @@ Digestive Aid, Immune Boosters, Respiratory Health, Skin Care, Stress Relief, Pa
 ---
 ## 3. Product Display Cards — Clear, Informative & Easy to Interact With
 
+<p align="center">
+  <img src="./Readme-Img/Product-Display.png" alt="Product Display" width="400px"/>
+</p>
+<p align="center"><strong>Product Cards Preview</strong></p>
+
 Med-Leaf showcases each medicinal plant using **well-structured product cards** that present all essential details at a glance.  
 These cards are designed to help users quickly understand the benefits, price, and usage of each plant while maintaining a clean e-commerce aesthetic.
 
-<p align="center">
-  <img src="./screenshots/product-cards.png" alt="Product Cards Preview" width="850px"/>
-</p>
 
 **Highlights of the product card design:**
 - **High-quality plant images** for better visual identification  
@@ -101,6 +104,7 @@ This design mirrors industry-standard e-commerce cards, providing familiarity an
 <p align="center">
   <img src="./Readme-Img/Shopping-cart.png" alt="Shopping-cart" width="400px"/>
 </p>
+<p align="center"><strong>Shopping Cart</strong></p>
 
 The shopping cart is designed to maintain user selections throughout the browsing experience and even after refreshing or revisiting the page.  
 This creates a frictionless and uninterrupted shopping flow.
@@ -120,7 +124,7 @@ This creates a frictionless and uninterrupted shopping flow.
 <p align="center">
   <img src="./Readme-Img/Blog-2.png" alt="Medium Blog Preview 2" width="400px"/>
 </p>
-
+<p align="center"><strong>Medium Blog post</strong></p>
 
 Med-Leaf integrates educational content from Medium blogs to help users understand plant properties, health benefits, usage methods, and scientific backing.  
 This creates a **knowledge-driven shopping experience**, helping users make informed purchasing decisions.
@@ -141,6 +145,7 @@ This creates a **knowledge-driven shopping experience**, helping users make info
   <img src="./Readme-Img/Mobile-prev-1.jpg" alt="Mobile-prev-1" height="330px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="./Readme-Img/Mobile-prev-2.jpg" alt="Mobile-prev-2" height="330px"    />
 </p>
+<p align="center"><strong>Mobile Preview</strong></p>
 
 
 A fully responsive layout ensures Med-Leaf works seamlessly on:
@@ -160,7 +165,7 @@ A fully responsive layout ensures Med-Leaf works seamlessly on:
 <p align="center">
   <img src="./Readme-Img/About-us-1.png" alt="About-us-1" width="400px"/> 
 </p>
-
+<p align="center"><strong>About us Preview</strong></p>
 
 The **About Us** page communicates the inspiration behind Med-Leaf, highlighting the platform’s mission of reconnecting users with nature through accessible digital tools.  
 It explains the reasoning behind promoting herbal wellness and the vision that shaped the platform.
