@@ -75,8 +75,28 @@ This structure helps users quickly find relevant plants without needing botanica
 Digestive Aid, Immune Boosters, Respiratory Health, Skin Care, Stress Relief, Pain Relief, Heart Health, and Mood Fresh.
 
 ---
+## 3. Product Display Cards — Clear, Informative & Easy to Interact With
 
-##  3. Persistent Shopping Cart — Seamless Shopping Continuity
+Med-Leaf showcases each medicinal plant using **well-structured product cards** that present all essential details at a glance.  
+These cards are designed to help users quickly understand the benefits, price, and usage of each plant while maintaining a clean e-commerce aesthetic.
+
+<p align="center">
+  <img src="./screenshots/product-cards.png" alt="Product Cards Preview" width="850px"/>
+</p>
+
+**Highlights of the product card design:**
+- **High-quality plant images** for better visual identification  
+- **Name and quick description** explaining the core benefit  
+- **Clear pricing** displayed prominently in a readable format  
+- **Add / Remove buttons** (with quantity selector) for smooth cart interaction  
+- **Minimalist layout** ensuring the card looks clean and approachable  
+
+This design mirrors industry-standard e-commerce cards, providing familiarity and ease of use for all types of users.
+
+
+---
+
+##  4. Persistent Shopping Cart — Seamless Shopping Continuity
 
 <p align="center">
   <img src="./Readme-Img/Shopping-cart.png" alt="Shopping-cart" width="400px"/>
@@ -95,7 +115,7 @@ This creates a frictionless and uninterrupted shopping flow.
 
 ---
 
-##  4. Medium Blog Integration — Learn as You Explore
+##  5. Medium Blog Integration — Learn as You Explore
 
 <p align="center">
   <img src="./Readme-Img/Blog-2.png" alt="Medium Blog Preview 2" width="400px"/>
@@ -115,7 +135,7 @@ This creates a **knowledge-driven shopping experience**, helping users make info
 
 ---
 
-##  5. Mobile Responsive Design — Optimized for Every Device
+##  6. Mobile Responsive Design — Optimized for Every Device
 
 <p align="center">
   <img src="./Readme-Img/Mobile-prev-1.jpg" alt="Mobile-prev-1" height="330px"   /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -136,7 +156,7 @@ A fully responsive layout ensures Med-Leaf works seamlessly on:
 
 ---
 
-##  6. About Us — Story, Purpose & Platform Identity
+##  7. About Us — Story, Purpose & Platform Identity
 <p align="center">
   <img src="./Readme-Img/About-us-1.png" alt="About-us-1" width="400px"/> 
 </p>
