@@ -39,12 +39,13 @@ Each feature has been carefully crafted to improve discoverability, clarity, and
 
 
 ##  1. Homepage — Clean & Welcoming Interface
+<p align="center">
+  <img src="./Readme-Img/Home-page.png" alt="Home-page" width="400px"/>
+</p>
+
 
 The homepage acts as the user’s first touchpoint, offering a clean layout that clearly communicates the platform’s purpose. It highlights medicinal plant categories and provides direct access to learning content, ensuring users are introduced to both the shopping experience and educational aspects of Med-Leaf.
 
-<p align="center">
-  <img src="./screenshots/home-page.png" alt="Med-Leaf Homepage" width="750px"/>
-</p>
 
 **Key aspects:**
 - Minimal, wellness-themed UI  
