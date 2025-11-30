@@ -31,7 +31,7 @@ Medicinal plants play a **vital role in our daily lives**, serving as a natural 
 ##  Project Highlights
 
 - **Architected a Responsive Front-End** using **React.js**, implementing a modular structure with reusable components for better maintainability and scalability.  
-- **Dynamic Search Functionality** enables users to find medicinal plants quickly and intuitively.  
+- **Smart Category-Based** Exploration lets users find the right medicinal plants faster by navigating through health-focused sections.  
 - **Persistent Shopping Cart** ensures users can continue their shopping journey without losing selections between sessions.  
 - **Educational Medium Blog Integration** — linked directly from the platform — offers articles on medicinal plant benefits, creating a knowledge hub that **builds user trust and engagement**.  
 - Fully **responsive UI** ensures seamless performance on desktops, tablets, and smartphones.  
@@ -50,7 +50,7 @@ Medicinal plants play a **vital role in our daily lives**, serving as a natural 
   - Pain Relief  
   - Heart Health  
   - Mood Fresh  
-- **🔍 Dynamic Search:** Quickly locate desired plants using search filters.  
+- **🔍 Category-Based:** Quickly locate desired plants using search filters.  
 - **🛒 Persistent Shopping Cart:** Retains user selections even after page refreshes.  
 - **📖 Linked Medium Blog:** Provides educational content about plant usage and benefits.  
 
